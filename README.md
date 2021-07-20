@@ -10,7 +10,7 @@ OpenCV is a library of programming functions mainly aimed at real-time computer 
 - use .imwrite function and save image as specified name
 
 ## Sample Input:
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/Aditya8821/Image-To-Sketch/blob/main/Images/Captain_america.jpg"></p>
 
 ## Sample Output:
 <p align="center"><img src=""></p>
